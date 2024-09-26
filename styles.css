@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2b2d42;
+    color: #edf2f4;
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.cards {
+    margin: 20px;
+}
+
+#status {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    background-color: #8d99ae;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ef233c;
+}
+
+#new-game-button {
+    display: none;
+}
+
